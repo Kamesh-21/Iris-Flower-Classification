@@ -22,8 +22,4 @@ The dataset contains:
 - Pandas & NumPy  
 - Scikit-learn  
 - Matplotlib & Seaborn  
-
-## 🔗 How to Run
-```sh
-pip install -r requirements.txt
-python scripts/train_model.py
+ 
